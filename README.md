@@ -20,10 +20,15 @@ This report highlights the following Key Performance Indicators:
  
 To support data-driven decisions, this dashboard includes the following visualizations:
 -- **Hourly Trends for Pizza Sold**- Shows customer purchasing behavior during specific time periods (e.g., peak hours: 12–1 PM, 4–7 PM).
+
 -- **Weekly Trends for Orders**- Identifies seasonal patterns, showing peak order volume during Week 48 (December).
+
 -- **Sales by Pizza Category**- Highlights performance of Veggie, Chicken, Supreme, and Classic pizzas.
+
 -- **Sales by Pizza Size**- Breaks down sales contributions by Regular, Medium, Large, X-Large, and XX-Large sizes.
+
 -- **Top & Bottom Selling Pizzas**-Reveals best and worst-performing products by revenue, quantity sold, and number of orders.
+
 -- **Total Orders vs. Total Pizzas Sold by Category**- Compares efficiency and customer ordering behavior per category.
 
 ### **Page-wise Breakdown**
@@ -37,9 +42,12 @@ Showcases the top and bottom 5 pizzas by revenue, quantity sold, and total order
 ### **Insights**
 -- **Performance Drivers**: Classic Category is the top-performing segment.
                             Large Pizzas drive the highest revenue.
+                            
 -- **Customer Behaviour**: Peak hours are consistent across lunch and evening.
                            Sales spike during December (Week 48), suggesting holiday influence.
+                           
 -- **Underperformers**:	Certain pizzas (e.g., Brie Carre, Spinach Supreme) have low sales—consider revising or removing.
+
 -- **Business Actions**: Promote best sellers with combo deals during peak hours.
                          Evaluate pricing strategy for medium and regular pizzas to increase share.
                          Introduce seasonal offers around high-performing weeks.
